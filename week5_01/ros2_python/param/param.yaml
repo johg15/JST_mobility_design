@@ -1,0 +1,5 @@
+ros2_python:
+  client:
+    ros__parameters:
+      number1: 5 
+      number2: 15
